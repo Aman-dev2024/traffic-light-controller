@@ -1,12 +1,12 @@
 # traffic-light-controller
 traffic-light-controller is a mini project where you can control a traffic light color by clicking buttons.
 
-✨ Features
+### ✨ Features
 1) Change traffic light to red
 2) Change traffic light to orange
 3) Change traffic light to green
 
-💻 Tech Stack
+### 💻 Tech Stack
 1) HTML5
 2) CSS3
 3) JavaScript
